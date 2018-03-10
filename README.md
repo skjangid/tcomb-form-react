@@ -1548,4 +1548,3 @@ fix added:
 # License
 
 MIT
-"# tcomb-form-react" 
